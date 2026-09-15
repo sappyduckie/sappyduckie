@@ -82,6 +82,8 @@ Finally, by submitting a contribution, you:
 2. Accept responsibility for your contribution, and
 3. Agree to license those rights to this project under the [Apache 2.0 License](LICENSE).
 
+***
+
 ```
        へ  ♡
    ૮  > <)
