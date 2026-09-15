@@ -12,7 +12,7 @@ Thanks for your interest in contributing to my project! This document outlines h
 - **Feature Requests**: Describe a feature you wish to see added via the issue tracker, and tag it as a `Feature Request`.
 - **Votes**: You can help prioritize bugs and features relevant to you by voting for them with a 👍 reaction in the issue tracker.
 
-> 💡 **Tip**: All contributions to this project are made through git.
+> 💡 **Tip**: All contributions to this project are made through Git.
 
 # Getting Started
 
