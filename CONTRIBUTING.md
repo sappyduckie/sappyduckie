@@ -6,13 +6,13 @@ Thanks for your interest in contributing to my project! This document outlines h
 
 ## Types of Contributions
 
-> 💡 **Tip**: All contributions to this project are made through git.
-
 - **Code**: Fork the repository and submit a pull request with your tested changes clearly explained in the commit message.
 - **Documentation**: Improving the clarity and scope of documentation is always welcome.
 - **Bug Reports**: Detail issues you have encountered with reproduction steps and context via the issue tracker.
 - **Feature Requests**: Describe a feature you wish to see added via the issue tracker, and tag it as a `Feature Request`.
 - **Votes**: You can help prioritize bugs and features relevant to you by voting for them with a 👍 reaction in the issue tracker.
+
+> 💡 **Tip**: All contributions to this project are made through git.
 
 # Getting Started
 
