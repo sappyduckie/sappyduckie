@@ -18,7 +18,7 @@ Thanks for your interest in contributing to my project! This document outlines h
 
 The following sections go into more detail on each type of contribution you can make.
 
-Confused on something? Maybe you could use some *[support](SUPPORT)*.
+Confused on something? Maybe you could use some [support](SUPPORT).
 
 ## A Prelude on Conventions
 
