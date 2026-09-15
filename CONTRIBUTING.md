@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in contributing to my project! This document outlines how you can do that effectively.
+Thank you for your interest in contributing to my project! This document is here to help you help me.
 
 *(Psst- Not a human? This document doesn't apply to you. See `AGENTS.md` to learn how you can contribute.)*
 
