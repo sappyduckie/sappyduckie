@@ -78,7 +78,7 @@ If you want an issue to be prioritized, you can vote on it by adding a 👍 reac
 # Contribution Agreement
 
 Finally, by submitting a contribution, you:
-1. Affirm that you own the intellectual rights to, or are otherwise authorized to submit, your contribution, and
+1. Affirm that you own the rights to, or are otherwise authorized to submit, your contribution, and
 2. Accept responsibility for your contribution, and
 3. Agree to license those rights to this project under the [Apache 2.0 License](LICENSE).
 
