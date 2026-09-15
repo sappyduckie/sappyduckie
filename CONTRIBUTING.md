@@ -67,7 +67,7 @@ While there are no set rules on how to report bugs, following common best practi
 - **Explain**: What you did, what you expected to happen when you did it, and what actually happened.
 - **Add context**: Such as your device, operating system, and the version of the software you were using.
 
-> 💡 **Tip**: Providing screenshots, logs, and recordings of the issue is always helpful for documentation and reference.
+> 💡 **Tip**: You might be asked to provide screenshots, logs, or recordings of the issue.
 
 ***
 
