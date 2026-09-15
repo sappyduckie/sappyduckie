@@ -89,6 +89,6 @@ Finally, by submitting a contribution, you:
 ```
        へ  ♡
    ૮  > <)
-   / ⁻  ៸|
+   / ⁻ ៸|
 乀(ˍ, ل ل with love, by sappy
 ```
