@@ -18,7 +18,7 @@ Thanks for your interest in contributing to my project! This document outlines h
 
 The following sections go into more detail on each type of contribution you can make.
 
-If any portion of your contribution is written or assisted by an LLM, it must follow the guidelines outlined in `AGENTS.md`.
+Confused on something? Maybe you could use some *[support](SUPPORT)*.
 
 ## A Prelude on Conventions
 
@@ -35,21 +35,21 @@ Following the hierarchy above, commit messages should follow the [Conventional C
 
 My projects are primarily written in Rust. If you are new to Rust, it is recommended to [start here](https://doc.rust-lang.org/book/). Contributions from rustlings are welcome!
 
-If you are also new to Git, it is recommended to [start here](https://git-scm.com/learn). Contributing assumes that you are familiar with both Git and Rust to a basic degree.
+If you are also new to Git, it is recommended to [start here](https://git-scm.com/learn) before making contributions.
 
 Naturally, languages other than Rust will be used per the needs of the project. Common ones include:
+
 - TOML, for configuration files
 - RON, for serialization
 - HTML & CSS, for interfaces
 - Python, for simple scripting
 - And more, as found appropriate
-It is expected that contributors are familiar with the tools and languages used in the project they are contributing to.
 
-To contribute code, you may fork the repository and submit a pull request with your changes. Ensure that your code is documented, and that its documentation follows the rules in the next section.
+It is expected that contributors are familiar with the tools and languages used in the project that they are contributing to. Additionally ensure that your code is documented, and that its documentation follows the rules outlined in the next section.
 
 ## Documentation
 
-The following extends to commit messages, code comments, external documentation, and any other contribution that is intended to be read by humans. Therefore, such contributions should exclusively be written by them.
+The following extends to commit messages, inline code comments, external documentation, and any other contribution that is intended to be read by humans. Therefore, such contributions should exclusively be written by them.
 
 There are plenty of things to document, such as, but not limited to:
 - Code, with inline comments describing the code's behaviour
@@ -61,11 +61,11 @@ You can find the issue tracker for this repository on GitHub, under the "Issues"
 
 ***
 
-While there are no set rules to report bugs, following common best practices makes solving them faster:
+While there are no set rules on how to report bugs, following common best practices makes solving them easier:
 
 - **Be obvious**: Use as many words as you need to ensure there is no misunderstanding.
 - **Explain**: What you did, what you expected to happen when you did it, and what actually happened.
-- **Add context**: Such as your device, operating system, and the version of the software you were using. Providing screenshots, logs, and recordings are always appreciated.
+- **Add context**: Such as your device, operating system, and the version of the software you were using. Providing screenshots, logs, and recordings are always helpful.
 
 ***
 
