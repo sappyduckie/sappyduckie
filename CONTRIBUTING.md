@@ -64,7 +64,7 @@ You can find the issue tracker for this repository on GitHub, under the "Issues"
 While there are no set rules to report bugs, following common best practices makes solving them faster:
 
 - **Be obvious**: Use as many words as you need to ensure there is no misunderstanding.
-- **What happened**: What you did, what you expected to happen when you did it, and what actually happened.
+- **Explain**: What you did, what you expected to happen when you did it, and what actually happened.
 - **Add context**: Such as your device, operating system, and the version of the software you were using. Providing screenshots, logs, and recordings are always appreciated.
 
 ***
