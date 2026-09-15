@@ -87,8 +87,8 @@ Finally, by submitting a contribution, you:
 ***
 
 ```
-       へ  ♡
-   ૮  > <)
-   / ⁻  ៸|
-乀(ˍ, ل  ل with love, by sappy
+      へ  ♡
+   ૮ > <)
+   /⁻  ៸|
+乀(ˍ,ل  ل with love, by sappy
 ```
