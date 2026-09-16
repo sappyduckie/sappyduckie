@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to my project! This document is here to help you help me.
+Thank you for your interest in contributing to my project! This document is here to help you help.
 
 *(Psst- Not a human? This document doesn't apply to you. See [AGENTS.md](AGENTS.md) to learn how you can contribute.)*
 
@@ -13,13 +13,9 @@ Thank you for your interest in contributing to my project! This document is here
 - **Votes**: You can help prioritize bugs and features relevant to you by voting for them with a 👍 reaction in the issue tracker.
 
 > [!NOTE]
-> All contributions to this project are made through Git.
+> All contributions to this project are made through Git and GitHub.
 
 # Getting Started
-
-The following sections go into more detail on each type of contribution you can make.
-
-Confused on something? Maybe you could use some *[support](SUPPORT.md)*.
 
 ## A Prelude on Conventions
 
@@ -56,6 +52,9 @@ The following extends to commit messages, inline code comments, external documen
 There are plenty of things to document, such as, but not limited to:
 - Code, with inline comments describing the code's behaviour
 - User guides, manuals, version changelogs, and other external documentation
+
+> [!TIP]
+> Confused on something? Maybe you could use some *[support](SUPPORT.md)*.
 
 ## Bug Reports, Feature Requests, & Voting
 
