@@ -3,7 +3,7 @@
 [![Github-sponsors](https://img.shields.io/badge/sponsor-%2330363D.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/sappyduckie)
 <!--Replace banner with "# Title" if lazy-->
 ![Project title banner](/img/banner.jpg)
-> *Artist: [Sitora Musulmankulova](https://www.sitoraart.com) ~(work modified)~*
+> *Artist: [Sitora Musulmankulova](https://www.sitoraart.com) <sub>(work modified)</sub>*
 <!--Vanity badges-->
 <!--[![Cargo Check](https://github.com/sappyduckie/THIS-REPO/actions/workflows/rust.yml/badge.svg)](https://github.com/sappyduckie/THIS-REPO/actions)-->
 ![GitHub License](https://img.shields.io/github/license/sappyduckie/sappyduckie/)
