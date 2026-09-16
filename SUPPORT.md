@@ -1,6 +1,6 @@
 # Support & Contact
 
-If you have a **bug to report** or a **feature to request** regarding one of my projects, please open an issue in the respective channel. Make sure to first read [the rules](CONTRIBUTING.md)!
+If you have a **bug to report** or a **feature to request** regarding one of my projects, please open an issue in the respective channel. Make sure to read [the rules](CONTRIBUTING.md)!
 
 ***
 
