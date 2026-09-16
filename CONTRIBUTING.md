@@ -31,7 +31,7 @@ Following the hierarchy above, commit messages should follow the [Conventional C
 
 ## Code
 
-My projects are primarily written in Rust. If you are new to Rust, it is recommended to [start here](https://doc.rust-lang.org/book). Contributions from rustlings are welcome!
+My projects are primarily written in Rust. If you are new to Rust, it is recommended to [start here](https://doc.rust-lang.org/book). Contributions from rustlings are always welcome!
 
 If you are also new to Git, it is recommended to [start here](https://git-scm.com/learn) before making any contributions.
 
@@ -40,8 +40,8 @@ Naturally, languages other than Rust will be used per the needs of the project. 
 - **TOML**, for configuration files
 - **RON**, for serialization
 - **HTML & CSS**, for interfaces
-- **Python**, for simple scripting
-- And more, per necessity
+- **Python**, for easy scripting
+- And **more**, per necessity
 
 It is expected that contributors are familiar with the tools and languages used in the project that they are contributing to.
 
@@ -58,7 +58,7 @@ There are plenty of things to document, such as, but not limited to:
 
 ## Bug Reports, Feature Requests, & Voting
 
-The following contributions can be made through the projects issue tracker on GitHub. You can find it under the "Issues" tab. There, you can create new issues or vote on existing ones. Always check if your issue has already been opened and/or closed before creating a new one.
+The following contributions can be made through the projects issue tracker on GitHub. You can find it under the "Issues" tab. There, you can create new issues or vote on existing ones. Always check if your issue has already been opened before creating a new one.
 
 ### Bug Reports
 
@@ -73,11 +73,11 @@ While there are no set rules on how to report bugs, following common best practi
 
 ### Feature Requests
 
-Feature requests can be submitted through the issue tracker. You can tag your new issue with the `Feature Request` label, if it applies. Please make your language obvious to what you want to see implemented. Your feedback is appreciated!
+Feature requests can be submitted through the issue tracker. Create a new issue and tag it with the `Feature Request` label. Please make your language obvious to what you want to see implemented. Your feedback is invaluable!
 
 ### Priority Voting
 
-If you want an issue to be prioritized, you can vote on it by adding a 👍 reaction. Please **do not** leave comments solely to express your support (i.e. "+1" or similar). Such comments do not count towards issue priority and are considered spam.
+If you want an issue to be prioritized, you can vote on it by adding a 👍 reaction. Please **do not** leave comments solely to express your support (e.g., "+1" or similar). Such comments do not count towards issue priority and are considered spam.
 
 # Contribution Agreement
 
