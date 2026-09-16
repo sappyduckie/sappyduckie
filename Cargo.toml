@@ -1,6 +1,11 @@
 [package]
 name = "git-templates"
+description = "a collection of my git templates"
+authors = ["Sappy Duck <sappyduck@proton.me>"]
 version = "0.1.0"
 edition = "2024"
+license = "Apache-2.0"
+keywords = ["git", "templates"]
 
 [dependencies]
+# dependencies
