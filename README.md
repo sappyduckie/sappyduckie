@@ -6,10 +6,10 @@
 <!--Vanity badges-->
 <!--[![Cargo Check](https://github.com/sappyduckie/THIS-REPO/actions/workflows/rust.yml/badge.svg)](https://github.com/sappyduckie/THIS-REPO/actions)-->
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Maintenance](https://img.shields.io/badge/Maintained?-Active-green.svg)](https://github.com/sappyduckie/git-templates/commits/main/)
+[![Maintenance](https://img.shields.io/badge/Support-Active-green.svg)](#)
 [![Made With Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](#)
 [![Attribution](https://img.shields.io/badge/By-Sappy-ffff80.svg)](#)
-[![Arch BTW](https://img.shields.io/badge/Arch-BTW-1793d1?logo=archlinux)](#)
+[![Arch BTW](https://img.shields.io/badge/Arch-BTW-1793d1?logo=archlinux)](https://wiki.archlinux.org/title/Arch_Linux)
 
 ***
 
