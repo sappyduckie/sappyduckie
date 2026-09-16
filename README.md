@@ -1,11 +1,7 @@
-![Project logo](/path/to/image)
-
-# PROJECT NAME
-
-<!--Add markdown comments like this-->
-
-### List of badges I might use
-
+![Project logo and banner](/path/to/image)
+<!--You'll notice that there is no title. The title is already in the URL and the banner, so there is no need to add one here. Linebreak after the banner.-->
+***
+<!--Possible vanity badges-->
 **Git:**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -52,8 +48,12 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ***
+<!--Possible workflow badges-->
+![Cargo Check](https://github.com/sappyduckie/git-templates/actions/workflows/rust.yml/badge.svg)
 
-Quick project summary, mirroring the project's GitHub subtitle.
+***
+
+Paragraph about what the project is about, more detailed than the GitHub subtitle.
 
 ![Screenshot of what the project looks like](/path/to/image)
 
