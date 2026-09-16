@@ -7,13 +7,13 @@
 ### List of badges I might use
 
 **Git:**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Github-sponsors](https://img.shields.io/badge/sponsor-%2330363D.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 
-***
-
 **Targets:**
+
 ![Niri](https://img.shields.io/badge/Niri-%23D55C44.svg?style=for-the-badge&logo=niri&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white)
 ![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)
@@ -23,9 +23,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Flatpak](https://img.shields.io/badge/flatpak-%234A90D9.svg?style=for-the-badge&logo=flatpak&logoColor=white)
 
-***
-
 **Tools & APIs:**
+
 ![Aseprite](https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Krita](https://img.shields.io/badge/Krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
@@ -34,9 +33,8 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Lichess](https://img.shields.io/badge/Lichess-%23000000.svg?style=for-the-badge&logo=lichess&logoColor=white)
 
-***
-
 **Languages:**
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,9 +45,8 @@
 ![Duckdb](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-***
-
 **Platforms:**
+
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Matrix](https://img.shields.io/badge/matrix-%23000000.svg?style=for-the-badge&logo=matrix&logoColor=white)
 ![Mastodon](https://img.shields.io/badge/MASTODON-%232B90D9.svg?style=for-the-badge&logo=mastodon&logoColor=white)
