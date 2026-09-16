@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to my project! This document is here to help you help me.
 
-*(Psst- Not a human? This document doesn't apply to you. See `AGENTS.md` to learn how you can contribute.)*
+*(Psst- Not a human? This document doesn't apply to you. See [AGENTS.md](AGENTS.md) to learn how you can contribute.)*
 
 ## Types of Contributions
 
@@ -19,35 +19,35 @@ Thank you for your interest in contributing to my project! This document is here
 
 The following sections go into more detail on each type of contribution you can make.
 
-Confused on something? Maybe you could use some [support](SUPPORT).
+Confused on something? Maybe you could use some *[support](SUPPORT.md)*.
 
 ## A Prelude on Conventions
 
 Conventions, such as (but not exclusively) style guides and formatting, should be applied in the following hierarchy:
-1. Official sources
-2. Popular consensus
-3. Personal preference
+1. **Official** sources
+2. **Popular** consensus
+3. **Personal** preference
 
-Following the hierarchy above, commit messages should follow the [Conventional Commits](https://www.conventionalcommits.org/) specification.
+Following the hierarchy above, commit messages should follow the [Conventional Commits](https://www.conventionalcommits.org) specification.
 
 > [!TIP]
 > Common sense is the best convention!
 
 ## Code
 
-My projects are primarily written in Rust. If you are new to Rust, it is recommended to [start here](https://doc.rust-lang.org/book/). Contributions from rustlings are welcome!
+My projects are primarily written in Rust. If you are new to Rust, it is recommended to [start here](https://doc.rust-lang.org/book). Contributions from rustlings are welcome!
 
-If you are also new to Git, it is recommended to [start here](https://git-scm.com/learn) before making contributions.
+If you are also new to Git, it is recommended to [start here](https://git-scm.com/learn) before making any contributions.
 
 Naturally, languages other than Rust will be used per the needs of the project. Common ones include:
 
-- TOML, for configuration files
-- RON, for serialization
-- HTML & CSS, for interfaces
-- Python, for simple scripting
-- And more, as found appropriate
+- **TOML**, for configuration files
+- **RON**, for serialization
+- **HTML & CSS**, for interfaces
+- **Python**, for simple scripting
+- And more, per necessity
 
-It is expected that contributors are familiar with the tools and languages used in the project that they are contributing to. Additionally ensure that your code is documented, and that its documentation follows the rules outlined in the next section.
+It is expected that contributors are familiar with the tools and languages used in the project that they are contributing to.
 
 ## Documentation
 
@@ -59,9 +59,9 @@ There are plenty of things to document, such as, but not limited to:
 
 ## Bug Reports, Feature Requests, & Voting
 
-You can find the issue tracker for this repository on GitHub, under the "Issues" tab. There, you can create a new issue or vote on an existing one. Make sure to check if your issue has already been opened and/or closed before creating a new one.
+The following contributions can be made through the projects issue tracker on GitHub. You can find it under the "Issues" tab. There, you can create new issues or vote on existing ones. Always check if your issue has already been opened and/or closed before creating a new one.
 
-***
+### Bug Reports
 
 While there are no set rules on how to report bugs, following common best practices makes solving them easier:
 
@@ -72,11 +72,11 @@ While there are no set rules on how to report bugs, following common best practi
 > [!IMPORTANT]
 > You might be asked to provide screenshots, logs, or recordings of the issue to help us diagnose the problem.
 
-***
+### Feature Requests
 
 Feature requests can be submitted through the issue tracker. You can tag your new issue with the `Feature Request` label, if it applies. Please make your language obvious to what you want to see implemented. Your feedback is appreciated!
 
-***
+### Priority Voting
 
 If you want an issue to be prioritized, you can vote on it by adding a 👍 reaction. Please **do not** leave comments solely to express your support (i.e. "+1" or similar). Such comments do not count towards issue priority and are considered spam.
 
