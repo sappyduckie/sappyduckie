@@ -1,6 +1,4 @@
 <!--Vanity badges-->
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sappyduckie)
-[![Github-sponsors](https://img.shields.io/badge/sponsor-%2330363D.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/sappyduckie)
 <!--[![Cargo Check](https://github.com/sappyduckie/THIS-REPO/actions/workflows/rust.yml/badge.svg)](https://github.com/sappyduckie/THIS-REPO/actions)-->
 [![GitHub License](https://img.shields.io/badge/License-Apache--2.0-d22128?logo=apache&logoColor=d22128)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Development Status](https://img.shields.io/badge/Development-Active-green?logo=educative&logoColor=white)](https://github.com/sappyduckie/sappyduckie/commits/main)
