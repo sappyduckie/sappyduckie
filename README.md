@@ -4,14 +4,18 @@
 <!--Replace banner with "# Title" if lazy-->
 ![Project title banner](/img/banner.jpg)
 <!--Possible workflow badges go under the title-->
-![Cargo Check](https://github.com/sappyduckie/git-templates/actions/workflows/rust.yml/badge.svg)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Maintenance](https://img.shields.io/badge/Maintenance-Active-green.svg)](https://github.com/sappyduckie/git-templates/commits/main/)
+[![Cargo Check](https://github.com/sappyduckie/git-templates/actions/workflows/rust.yml/badge.svg)](https://github.com/sappyduckie/git-templates/actions)
+[Made With Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)
+[![Attribution](https://img.shields.io/badge/By-Sappy-fff59b.svg)]
 
 ***
 
 This paragraph describes what the project is about, more detailed than in the GitHub subtitle. The following text is a placeholder. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Inventore elit mollitia magnam modi quas adipisci accusamus nisi nostrud quia. Consectetur et laboris minim laboris beatae fugiat lorem eius ad odit eius amet voluptas ipsum. Aute quisquam nostrud do incididunt aute sunt ratione quia. Dolores pariatur proident aut magni tempora ipsum id magni ab ut excepturi. Dicta elit modi beatae dicta mollit exercitation veniam esse. Et inventore vero tempora vero fugit do aliqua modi quisquam.
 
 ![Screenshot of what the project looks like](/img/example.jpg)
-> This text describes the example screenshot above.
+> This text annotates the above screenshot of the working project.
 
 ***
 <!--Optional vanity badges-->
