@@ -47,3 +47,12 @@
 Quick project summary, mirroring the project's GitHub subtitle.
 
 ![Screenshot of what the project looks like](/path/to/image)
+
+***
+
+```
+      へ  ♡
+   ૮ > <)
+   /⁻  ៸|
+乀(ˍ, ل ل This is my pet, SappyCat. Give him lots of love!
+```
