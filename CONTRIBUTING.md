@@ -12,7 +12,8 @@ Thank you for your interest in contributing to my project! This document is here
 - **Feature Requests**: Describe a feature you wish to see added via the issue tracker, and tag it as a `Feature Request`.
 - **Votes**: You can help prioritize bugs and features relevant to you by voting for them with a 👍 reaction in the issue tracker.
 
-> 💡 **Tip**: All contributions to this project are made through Git.
+> [!NOTE]
+> All contributions to this project are made through Git.
 
 # Getting Started
 
@@ -29,7 +30,8 @@ Conventions, such as (but not exclusively) style guides and formatting, should b
 
 Following the hierarchy above, commit messages should follow the [Conventional Commits](https://www.conventionalcommits.org/) specification.
 
-> 💡 **Tip**: Common sense is the best convention!
+> [!TIP]
+> Common sense is the best convention!
 
 ## Code
 
@@ -57,7 +59,7 @@ There are plenty of things to document, such as, but not limited to:
 
 ## Bug Reports, Feature Requests, & Voting
 
-You can find the issue tracker for this repository on GitHub, under the "Issues" tab. There, you can create a new issue or vote on an existing one.
+You can find the issue tracker for this repository on GitHub, under the "Issues" tab. There, you can create a new issue or vote on an existing one. Make sure to check if your issue has already been opened and/or closed before creating a new one.
 
 ***
 
@@ -67,7 +69,8 @@ While there are no set rules on how to report bugs, following common best practi
 - **Explain**: What you did, what you expected to happen when you did it, and what actually happened.
 - **Add context**: Such as your device, operating system, and the version of the software you were using.
 
-> 💡 **Tip**: You might be asked to provide screenshots, logs, or recordings of the issue.
+> [!IMPORTANT]
+> You might be asked to provide screenshots, logs, or recordings of the issue to help us diagnose the problem.
 
 ***
 

@@ -1,22 +1,24 @@
-<!--Vanity badges-->
+<!--GitHub badges-->
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sappyduckie)
 [![Github-sponsors](https://img.shields.io/badge/sponsor-%2330363D.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/sappyduckie)
 <!--Replace banner with "# Title" if lazy-->
 ![Project title banner](/img/banner.jpg)
+> *[Artist: Sitora Musulmankulova](https://www.sitoraart.com)*
 <!--Vanity badges-->
 <!--[![Cargo Check](https://github.com/sappyduckie/THIS-REPO/actions/workflows/rust.yml/badge.svg)](https://github.com/sappyduckie/THIS-REPO/actions)-->
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Maintenance](https://img.shields.io/badge/Support-Active-green.svg)](#)
-[![Made With Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](#)
-[![Attribution](https://img.shields.io/badge/By-Sappy-ffff80.svg)](#)
+![GitHub License](https://img.shields.io/github/license/sappyduckie/sappyduckie/)
+[![Development Status](https://img.shields.io/badge/Development-Active-green?logo=educative&logoColor=white)](https://github.com/sappyduckie/sappyduckie/commits/main/)
+[![Attribution](https://img.shields.io/badge/Made%20by-Ducks-ffff80?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHZlcnNpb249IjEuMSI+CjxnIGlkPSJzdXJmYWNlMSI+CjxwYXRoIHN0eWxlPSIgc3Ryb2tlOm5vbmU7ZmlsbC1ydWxlOmV2ZW5vZGQ7ZmlsbDpyZ2IoMCUsMCUsMCUpO2ZpbGwtb3BhY2l0eToxOyIgZD0iTSAxLjcwMzEyNSA2LjczODI4MSBMIDIuNzYxNzE5IDYuMjA3MDMxIEMgMi43MzA0NjkgNi4wNTg1OTQgMi43MDMxMjUgNS45MTAxNTYgMi42ODc1IDUuNzU3ODEyIEwgMS43MDMxMjUgNS4yNjE3MTkgQyAxLjM3MTA5NCA1LjA5NzY1NiAxLjIzODI4MSA0LjY5OTIxOSAxLjQwMjM0NCA0LjM2NzE4OCBDIDEuNTcwMzEyIDQuMDM5MDYyIDEuOTY4NzUgMy45MDYyNSAyLjI5Njg3NSA0LjA3MDMxMiBMIDIuNzk2ODc1IDQuMzIwMzEyIEMgMy4yNDYwOTQgMi42MDE1NjIgNC44MDg1OTQgMS4zMzIwMzEgNi42Njc5NjkgMS4zMzIwMzEgQyA4Ljg3NSAxLjMzMjAzMSAxMC42Njc5NjkgMy4xMjUgMTAuNjY3OTY5IDUuMzMyMDMxIEMgMTAuNjY3OTY5IDUuNjc1NzgxIDEwLjYyNSA2LjAwNzgxMiAxMC41NDI5NjkgNi4zMjgxMjUgTCAxMy44MTI1IDUuMzU5Mzc1IEwgMTQuNjY3OTY5IDUuMTA5Mzc1IEwgMTQuNjY3OTY5IDkuNDQxNDA2IEMgMTQuNjY3OTY5IDEyLjM3NSAxMi4xMDkzNzUgMTQuNjY3OTY5IDkuMDY2NDA2IDE0LjY2Nzk2OSBMIDcuMTU2MjUgMTQuNjY3OTY5IEMgNC45OTIxODggMTQuNjY3OTY5IDMuMTc5Njg4IDEyLjk1MzEyNSAzLjM0Mzc1IDEwLjgyNDIxOSBDIDMuNDEwMTU2IDkuOTcyNjU2IDMuNzkyOTY5IDkuMjAzMTI1IDQuMzgyODEyIDguNjE3MTg4IEMgMy45Mzc1IDguMzA4NTk0IDMuNTU4NTk0IDcuOTA2MjUgMy4yNjk1MzEgNy40NDUzMTIgTCAyLjI5Njg3NSA3LjkyOTY4OCBDIDEuOTY4NzUgOC4wOTM3NSAxLjU3MDMxMiA3Ljk2MDkzOCAxLjQwMjM0NCA3LjYzMjgxMiBDIDEuMjM4MjgxIDcuMzAwNzgxIDEuMzcxMDk0IDYuOTAyMzQ0IDEuNzAzMTI1IDYuNzM4MjgxIFogTSA2LjY2Nzk2OSAyLjY2Nzk2OSBDIDUuMzI4MTI1IDIuNjY3OTY5IDQuMjIyNjU2IDMuNjUyMzQ0IDQuMDMxMjUgNC45Mzc1IEwgNC45NjQ4NDQgNS40MDIzNDQgQyA1LjE5MTQwNiA1LjUxNTYyNSA1LjMzMjAzMSA1Ljc0NjA5NCA1LjMzMjAzMSA2IEMgNS4zMzIwMzEgNi4yNTM5MDYgNS4xOTE0MDYgNi40ODQzNzUgNC45NjQ4NDQgNi41OTc2NTYgTCA0LjQ2ODc1IDYuODQzNzUgQyA0Ljk0OTIxOSA3LjU0Mjk2OSA1Ljc1MzkwNiA4IDYuNjY3OTY5IDggQyA4LjE0MDYyNSA4IDkuMzMyMDMxIDYuODA0Njg4IDkuMzMyMDMxIDUuMzMyMDMxIEMgOS4zMzIwMzEgMy44NTkzNzUgOC4xNDA2MjUgMi42Njc5NjkgNi42Njc5NjkgMi42Njc5NjkgWiBNIDkuNjcxODc1IDcuOTc2NTYyIEMgOC45Mzc1IDguODA4NTk0IDcuODYzMjgxIDkuMzMyMDMxIDYuNjY3OTY5IDkuMzMyMDMxIEMgNi4zNTE1NjIgOS4zMzIwMzEgNi4wNDY4NzUgOS4yOTY4NzUgNS43NSA5LjIyNjU2MiBDIDUuMTIxMDk0IDkuNjE3MTg4IDQuNzI2NTYyIDEwLjI0NjA5NCA0LjY3MTg3NSAxMC45Mjk2ODggQyA0LjU3ODEyNSAxMi4xNzU3ODEgNS42NTYyNSAxMy4zMzIwMzEgNy4xNTYyNSAxMy4zMzIwMzEgTCA5LjA2NjQwNiAxMy4zMzIwMzEgQyAxMS40NzI2NTYgMTMuMzMyMDMxIDEzLjMzMjAzMSAxMS41NDI5NjkgMTMuMzMyMDMxIDkuNDQxNDA2IEwgMTMuMzMyMDMxIDYuODkwNjI1IFogTSA3LjMzMjAzMSA3IEMgNy44ODY3MTkgNyA4LjMzMjAzMSA2LjU1MDc4MSA4LjMzMjAzMSA2IEMgOC4zMzIwMzEgNS40NDkyMTkgNy44ODY3MTkgNSA3LjMzMjAzMSA1IEMgNi43ODEyNSA1IDYuMzMyMDMxIDUuNDQ5MjE5IDYuMzMyMDMxIDYgQyA2LjMzMjAzMSA2LjU1MDc4MSA2Ljc4MTI1IDcgNy4zMzIwMzEgNyBaIE0gNy4zMzIwMzEgNyAiLz4KPC9nPgo8L3N2Zz4K&logoColor=white)](https://github.com/sappyduckie)
 [![Arch BTW](https://img.shields.io/badge/Arch-BTW-1793d1?logo=archlinux)](https://wiki.archlinux.org/title/Arch_Linux)
 
 ***
 
-This paragraph describes what the project is about, more detailed than in the GitHub subtitle. The following text is a placeholder. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Inventore elit mollitia magnam modi quas adipisci accusamus nisi nostrud quia. Consectetur et laboris minim laboris beatae fugiat lorem eius ad odit eius amet voluptas ipsum. Aute quisquam nostrud do incididunt aute sunt ratione quia. Dolores pariatur proident aut magni tempora ipsum id magni ab ut excepturi. Dicta elit modi beatae dicta mollit exercitation veniam esse. Et inventore vero tempora vero fugit do aliqua modi quisquam.
+Hello, GitHub! In this repository, I have compiled global files that I (for the most part) use across all my projects.
 
-![Screenshot of what the project looks like](/img/example.jpg)
-> This text annotates the above screenshot of the working project.
+![Cute n cozy pond](/img/cozy-pond.jpg)
+> *[Artist: Justine Thibault](https://www.tumblr.com/svndvn)*
+
+# About Me
 
 ***
 
@@ -24,5 +26,5 @@ This paragraph describes what the project is about, more detailed than in the Gi
       へ  ♡
    ૮ > <)
    /⁻  ៸|
-乀(ˍ, ل ل This is my pet, SappyCat. Give him lots of love!
+乀(ˍ, ل ل This is my digital pet, SappyCat. Give him lots of love!
 ```
