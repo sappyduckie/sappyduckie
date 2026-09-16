@@ -16,8 +16,6 @@
 
 ![Niri](https://img.shields.io/badge/Niri-%23D55C44.svg?style=for-the-badge&logo=niri&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white)
-![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)
-![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![Vulkan API](https://img.shields.io/badge/Vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
