@@ -1,3 +1,7 @@
+<!--Possible workflow badges go first-->
+![Cargo Check](https://github.com/sappyduckie/git-templates/actions/workflows/rust.yml/badge.svg)
+***
+
 ![Project logo and banner](/path/to/image)
 <!--You'll notice that there is no title. The title is already in the URL and the banner, so there is no need to add one here. Linebreak after the banner.-->
 ***
@@ -46,10 +50,6 @@
 ![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-***
-<!--Possible workflow badges-->
-![Cargo Check](https://github.com/sappyduckie/git-templates/actions/workflows/rust.yml/badge.svg)
 
 ***
 
