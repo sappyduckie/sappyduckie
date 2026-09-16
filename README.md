@@ -1,5 +1,18 @@
 <!--Possible workflow badges go first-->
 ![Cargo Check](https://github.com/sappyduckie/git-templates/actions/workflows/rust.yml/badge.svg)
+<!--You'll notice that there is no title. The title is already in the URL and the following banner, so there is no need to add one here. Linebreak before the banner.-->
+***
+<!--Replace banner with "# Title" if lazy-->
+![Project title banner](/img/banner.jpg)
+
+***
+
+Paragraph about what the project is about, more detailed than the GitHub subtitle.
+
+![Screenshot of what the project looks like](/img/example.jpg)
+> This text describes the example screenshot above.
+
+***
 <!--Possible vanity badges, spaced but no linebreak-->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -35,16 +48,6 @@
 ![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-<!--You'll notice that there is no title. The title is already in the URL and the following banner, so there is no need to add one here. Linebreak before the banner.-->
-***
-<!--Replace banner with "# Title" if lazy-->
-![Project logo and banner](/img/git-banner.jpg)
-
-***
-
-Paragraph about what the project is about, more detailed than the GitHub subtitle.
-
-![Screenshot of what the project looks like](/path/to/image)
 
 ***
 
