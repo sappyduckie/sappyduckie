@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Maintenance](https://img.shields.io/badge/Maintained?-Active-green.svg)](https://github.com/sappyduckie/git-templates/commits/main/)
 [![Made With Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](#)
-[![Attribution](https://img.shields.io/badge/By-Sappy-f5f5a8.svg)](#)
+[![Attribution](https://img.shields.io/badge/By-Sappy-ffff80.svg)](#)
 [![Arch BTW](https://img.shields.io/badge/Arch-BTW-1793d1?logo=archlinux)](#)
 
 ***
