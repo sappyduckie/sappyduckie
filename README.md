@@ -8,7 +8,7 @@
 [![Lichess](https://img.shields.io/badge/Live%20Rating-2279-000000?logo=lichess&logoColor=ffffff)](https://lichess.org/@/sappyduck)
 <!--Replace banner with "# Title" if lazy-->
 ![Project title banner](/img/banner.jpg)
-> *Artist: [Sitora Musulmankulova](https://www.sitoraart.com) <sub>(work modified)</sub>*
+> *[Sitora Musulmankulova](https://www.sitoraart.com)<sub>(work modified)</sub>*
 
 ***
 
@@ -17,7 +17,7 @@
 My name is Sappy, and I'm a duck.
 
 ![Cute n cozy pond](/img/cozy-pond.jpg)
-> *Artist: [Justine Thibault](https://www.tumblr.com/svndvn)*
+> *[Justine Thibault](https://www.tumblr.com/svndvn)*
 
 ***
 
