@@ -47,6 +47,8 @@ Documentation is to be exclusively written by humans. This rule bluntly serves t
 
 Creative assets must not be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted assets.
 
+***
+
 > [!NOTE]
 > If you are unsure whether your contribution uses AI within the acceptable scope outlined in this document, see [SUPPORT.md](SUPPORT.md).
 
