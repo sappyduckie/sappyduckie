@@ -14,7 +14,7 @@
 
 # About Me
 
-I don't know anything. If you have any information, please tell me.
+My name is Sappy, and I'm a duck.
 
 ![Cute n cozy pond](/img/cozy-pond.jpg)
 > *Artist: [Justine Thibault](https://www.tumblr.com/svndvn)*

@@ -58,7 +58,7 @@ There are plenty of things to document, such as, but not limited to:
 
 ## Bug Reports, Feature Requests, & Voting
 
-The following contributions can be made through the projects issue tracker on GitHub. You can find it under the "Issues" tab. There, you can create new issues or vote on existing ones. Always check if your issue has already been opened before creating a new one.
+The following contributions can be made through the project's issue tracker on GitHub. You can find it under the "Issues" tab. There, you can create new issues or vote on existing ones. Always check if your issue has already been opened before creating a new one.
 
 ### Bug Reports
 
@@ -69,7 +69,7 @@ While there are no set rules on how to report bugs, following common best practi
 - **Add context**: Such as your device, operating system, and the version of the software you were using.
 
 > [!IMPORTANT]
-> You might be asked to provide screenshots, logs, or recordings of the issue to help us diagnose the problem.
+> You might be asked to provide screenshots, logs, or recordings of the issue to help diagnose the problem.
 
 ### Feature Requests
 
