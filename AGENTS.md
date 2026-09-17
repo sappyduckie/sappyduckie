@@ -1,7 +1,7 @@
 # AI Guidelines
 
 > [!CAUTION]
-> ***"...people will come to love their oppression, to adore the technologies that undo their capacities to think."***
+> ### *"...people will come to love their oppression, to adore the technologies that undo their capacities to think."*
 >
 > <sup>Neil Postman, 1985. *Amusing ourselves to death.*</sup>
 
