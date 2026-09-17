@@ -86,6 +86,9 @@ Finally, by submitting a contribution, you:
 2. Accept the responsibility for your contribution, and
 3. Agree to license those rights to this project under the [Apache 2.0 License](LICENSE).
 
+> [!WARNING]
+> Failure to comply with the rules outlined in this document may result in your contribution's arbitrary rejection.
+
 ***
 
 ```

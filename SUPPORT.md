@@ -2,9 +2,11 @@
 
 If you have a **bug to report** or a **feature to request** regarding one of my projects, please open an issue in the respective channel. Make sure to read [the rules](CONTRIBUTING.md)!
 
+If you want to contribute, but you are confused by the documentation included within this project on contributing, it's best to just submit your contribution anyway, and explain your confusion within it. The possible issues can be worked through before your contribution is accepted into the project.
+
 ***
 
-If you still need help, you can contact me privately through the following channels:
+If the above does not resolve your needs, you can contact me privately through the following channels:
 - **Email**: `sappyduck@proton.me`
 - **Matrix**: `@sappyduck:catgirl.cloud`
 
