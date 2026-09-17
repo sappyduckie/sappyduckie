@@ -21,13 +21,13 @@ Wherein throughout this document the following terms are used, they are to be un
 ### Code
 
 All submitted code needs to check the following boxes before it can be accepted:
-- [x] Passes all automated tests and compiles cleanly
-- [x] Correctly addresses the problem it intends to, that there is not a better method to do so available
-- [x] Respects conventions in the following hierarchy:
+- [ ] Passes all automated tests and compiles cleanly
+- [ ] Correctly addresses the problem it intends to, that there is not a better method to do so available
+- [ ] Respects conventions in the following hierarchy:
      1. Official sources
      2. Popular consensus
      3. Personal preference
-- [x] It is at minimum documented internally and includes a commit message, and that the documentation adheres to its respective rules
+- [ ] It is at minimum documented internally and includes a commit message, and that the documentation adheres to its respective rules
 
 ### Documentation
 
