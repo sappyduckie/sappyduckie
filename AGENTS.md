@@ -13,7 +13,7 @@ Wherein throughout this document the following terms are used, they are to be un
 - **Agent**: Autonomous systems that have the capacity to perform actions based on internal reasoning with a limited degree of human intervention.
 - **Code**: A set of computer instructions written in a programming language.
 - **Documentation**: Any written communication relating to this project that is intended to be read by humans.
-- **Creative Assets**: Non-code, non-documentation materials submitted to this project.
+- **Creative Assets**: Non-Code, non-Documentation materials submitted to this project.
 
 ## Contributions
 
@@ -22,7 +22,7 @@ Wherein throughout this document the following terms are used, they are to be un
 
 ### Code
 
-All submitted code needs to check the following boxes before it can be accepted:
+All submitted Code needs to check the following boxes before it can be accepted:
 
 - [ ] Passes all automated tests and compiles cleanly
 - [ ] Correctly addresses the problem it intends to, that there is not a better method to do so available
@@ -30,11 +30,11 @@ All submitted code needs to check the following boxes before it can be accepted:
   1. Official sources
   2. Popular consensus
   3. Personal preference
-- [ ] It is, at the minimum, sufficiently documented internally and includes a commit message, and that this documentation adheres to its [respective rules](#Documentation)
+- [ ] It is, at the minimum, sufficiently documented internally and includes a commit message, and that this Documentation adheres to its [respective rules](#Documentation)
 - [ ] If AI tools assisted in generating any portion of the contribution, its use is noted in the extended commit description with a newline complying with the following format, `Assistant: <name-and-version-of-model-or-tool-used>, Used for: <code/assets>`
 
 > [!IMPORTANT]
-> `Documentation` is not an accepted data type for the "Used for" field, consistent with the following AI guidelines on [documentation](#Documentation).
+> `Documentation` is not an accepted data type for the "Used for" field, consistent with the following AI guidelines on [Documentation](#Documentation).
 
 ### Documentation
 
@@ -45,7 +45,7 @@ Documentation is to be exclusively written by humans. This rule bluntly serves t
 
 ### Creative Assets
 
-Creative assets must not be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted assets.
+Creative Assets must not be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted Creative Assets.
 
 ***
 
