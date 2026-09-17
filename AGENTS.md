@@ -18,7 +18,7 @@ Wherein throughout this document the following terms are used, they are to be un
 ## Contributions
 
 > [!TIP]
-> Contributions, human-made or otherwise, are all held to the same standards of quality. Some content in a contribution can be made only by a human, and a contribution may only be submitted by a human. For more rules regarding contributions, see [CONTRIBUTING.md](CONTRIBUTING.md).
+> Contributions, human-made or otherwise, are all held to the same standards of quality. Some content in a contribution can only be made by a human, and an Agent may never submit a contribution. For more rules regarding contributions, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Code
 
