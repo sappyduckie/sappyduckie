@@ -33,7 +33,7 @@ All submitted code needs to check the following boxes before it can be accepted:
 - [ ] It is, at the minimum, sufficiently documented internally and includes a commit message, and that this documentation adheres to its [respective rules](#Documentation)
 - [ ] If AI tools assisted in generating any portion of the contribution, its use is noted in the extended commit description with a newline complying with the following format, `Assistant: <name-and-version-of-model-or-tool-used>, Used for: <code/assets>`
 
-> [!NOTE]
+> [!IMPORTANT]
 > `Documentation` is not an accepted data type for the "Used for" field, consistent with the following AI guidelines on [documentation](#Documentation).
 
 ### Documentation
