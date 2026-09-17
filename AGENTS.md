@@ -11,8 +11,8 @@ Wherein throughout this document the following terms are used, they are to be un
 
 - **AI**: Systems that can generate content based on probabilistic inference.
 - **Agent**: Autonomous systems that have the capacity to perform actions based on internal reasoning with a limited degree of human intervention.
-- **Code**: A set of computer instructions written in a programming language.
-- **Documentation**: Any written communication relating to this project that is intended to be read by humans.
+- **Code**: Computer instructions written in a programming language.
+- **Documentation**: Written communication relating to this project that is intended to be read by humans.
 - **Creative Assets**: Non-Code, non-Documentation materials submitted to this project.
 
 ## Contributions
