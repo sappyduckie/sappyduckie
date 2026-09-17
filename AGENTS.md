@@ -18,7 +18,7 @@ Wherein throughout this document the following terms are used, they are to be un
 ## Contributions
 
 > [!TIP]
-> Contributions, human-made or otherwise, are all held to the same standards of quality. Some content in a contribution can be made only by a human, and a contribution may only be submitted by a human. For rules governing human contributions, see [CONTRIBUTING.md](CONTRIBUTING.md).
+> Contributions, human-made or otherwise, are all held to the same standards of quality. Some content in a contribution can be made only by a human, and a contribution may only be submitted by a human. For more rules regarding contributions, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Code
 
@@ -30,25 +30,25 @@ All submitted code needs to check the following boxes before it can be accepted:
   1. Official sources
   2. Popular consensus
   3. Personal preference
-- [ ] It is at minimum documented internally and includes a commit message, and that the documentation adheres to its respective rules
+- [ ] It is, at the minimum, sufficiently documented internally and includes a commit message, and that this documentation adheres to its [respective rules](#Documentation)
 - [ ] If AI tools assisted in generating any portion of the contribution, its use is noted in the extended commit description with a newline complying with the following format, `Assistant: <name-and-version-of-model-or-tool-used>, Used for: <code/assets>`
 
 > [!NOTE]
-> `Documentation` is not an accepted data type for the "Used for" field, staying consistent with the following AI guidelines on [documentation](AGENTS.md#Documentation).
-
-> [!NOTE]
-> If you are unsure whether your contribution uses AI within the acceptable scope outlined in this document, see [SUPPORT.md](SUPPORT.md).
+> `Documentation` is not an accepted data type for the "Used for" field, consistent with the following AI guidelines on [documentation](#Documentation).
 
 ### Documentation
 
-Documentation is to be exclusively written by humans. This rule intends to serve two purposes rather simply:
+Documentation is to be exclusively written by humans. This rule bluntly serves two purposes:
 
 1. A contributor who cannot document their contribution has not displayed sufficient understanding to have reviewed it, and therefore not to have submitted it.
-2. Documentation facilitates communication between humans on this project. There is a vast cost to replacing human connection, and while we will all pay that price, this project will not accelerate it.
+2. Documentation facilitates communication between humans on this project. There is a preeminent cost to replacing human connection, and while we will all pay that price, this project will not expedite it.
 
 ### Creative Assets
 
 Creative assets must not be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted assets.
+
+> [!NOTE]
+> If you are unsure whether your contribution uses AI within the acceptable scope outlined in this document, see [SUPPORT.md](SUPPORT.md).
 
 > [!WARNING]
 > Failure to comply with the rules outlined in this document may result in your contribution's arbitrary rejection.

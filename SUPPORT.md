@@ -2,17 +2,18 @@
 
 If you have a **bug to report** or a **feature to request** regarding one of my projects, please open an issue in the respective channel. Make sure to read [the rules](CONTRIBUTING.md)!
 
-If you want to contribute, but you are confused by the documentation included within this project on contributing, it's best to just submit your contribution anyway, and explain your confusion within it. The possible issues can be worked through before your contribution is accepted into the project.
+> [!TIP]
+> Are the contribution or AI guidelines confusing? Unsure if your contribution is acceptable? Not sure where it goes? Try submitting your contribution anyway, and we can sort it out together.
 
 ***
 
-If the above does not resolve your needs, you can contact me privately through the following channels:
+You can contact me privately through the following channels:
+
 - **Email**: `sappyduck@proton.me`
 - **Matrix**: `@sappyduck:catgirl.cloud`
 
-***
-
-A rotating public GPG key can be used to encrypt messages sent to me through unencrypted channels, and can be found [here](https://github.com/sappyduckie/sappyduckie/blob/main/public-key.asc).
+> [!NOTE]
+> A rotating public GPG key can be used to encrypt messages sent to me through unencrypted channels, and can be found [here](https://github.com/sappyduckie/sappyduckie/blob/main/public-key.asc).
 
 ***
 
