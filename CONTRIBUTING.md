@@ -95,5 +95,5 @@ Finally, by submitting a contribution, you:
       へ  ♡
    ૮ > <)
    /⁻  ៸|
-乀(ˍ, ل ل SappyCat says happy contributing!
+乀(ˍ, ل ل >SappyCat says "Happy Contributing!"
 ```

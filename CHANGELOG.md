@@ -29,5 +29,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
       へ  ♡
    ૮ > <)
    /⁻  ៸|
-乀(ˍ, ل ل You've reached the end of the yarn!
+乀(ˍ, ل ل >You've reached the end of the yarn! Spare some chin scritches?
 ```

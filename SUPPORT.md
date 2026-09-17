@@ -21,5 +21,5 @@ You can contact me privately through the following channels:
       へ  ♡
    ૮ > <)
    /⁻  ៸|
-乀(ˍ, ل ل SappyCat supports you.
+乀(ˍ, ل ل >SappyCat supports you.
 ```

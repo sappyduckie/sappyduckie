@@ -25,5 +25,5 @@ My name is Sappy, and I'm a duck.
       へ  ♡
    ૮ > <)
    /⁻  ៸|
-乀(ˍ, ل ل This is my digital pet, SappyCat. Give him lots of love!
+乀(ˍ, ل ل >This is my digital pet, SappyCat. Give him lots of love!
 ```

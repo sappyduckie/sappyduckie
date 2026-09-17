@@ -61,5 +61,5 @@ Creative Assets must not be generated with AI. Tooling with AI functionality is 
       へ  ♡
    ૮ > <)
    /⁻  ៸|
-乀(ˍ, ل ل SappyCat says "OK Clanker" (wtf sappycat thats robophobic you cant say that)
+乀(ˍ, ل ل >SappyCat says "OK Clanker." (WTF SappyCat that's robophobic you can't say that!)
 ```
