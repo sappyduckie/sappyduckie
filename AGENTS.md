@@ -1,4 +1,4 @@
-# AI Guidelines
+# AI Contribution Policy
 
 > [!CAUTION]
 > ### *"...people will come to love their oppression, to adore the technologies that undo their capacities to think."*
