@@ -13,7 +13,7 @@ You can contact me privately through the following channels:
 - **Matrix**: `@sappyduck:catgirl.cloud`
 
 > [!NOTE]
-> A rotating public GPG key can be used to encrypt messages sent to me through unencrypted channels, and can be found [here](https://github.com/sappyduckie/sappyduckie/blob/main/public-key.asc).
+> A rotating public GPG key can be used to encrypt messages sent to me through unencrypted channels, and can be found updated [here](https://github.com/sappyduckie/sappyduckie/blob/main/pubkey.asc).
 
 ***
 

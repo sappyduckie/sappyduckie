@@ -34,7 +34,7 @@ All submitted Code needs to check the following boxes before it can be accepted:
 - [ ] If the contribution had any portion generated with AI tools, its use is noted in the extended commit description with a newline complying with the following format, `Assistant: <name-and-version-of-model-or-tool-used>, Used for: <code>OR<assets>`
 
 > [!IMPORTANT]
-> The `Used for:` field will only accept `code` OR `assets` as a value. These are the only two acceptable uses for AI in this project. If you are contributing both, please separate them across different commits.
+> The `Used for:` field only accepts `code` OR `assets` as a value. These are the only two acceptable uses for AI in this project. If you are contributing both, please separate them across different commits.
 
 ### Documentation
 

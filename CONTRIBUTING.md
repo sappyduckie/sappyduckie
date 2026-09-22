@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to my project! This document is here to help you help.
 
-*(Psst- Not a human? This document doesn't apply to you. See [AGENTS.md](AGENTS.md) to learn how you can contribute.)*
+*(Psst- Not a human? This document doesn't apply to you. See [AI_USAGE.md](AI_USAGE.md) to learn how you can contribute.)*
 
 ## Types of Contributions
 
