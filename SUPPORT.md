@@ -7,7 +7,7 @@ If you have a **bug to report** or a **feature to request** regarding one of my 
 
 ***
 
-You can contact me privately through the following channels:
+Alternatively, you can contact me privately through the following channels:
 
 - **Email**: `sappyduck@proton.me`
 - **Matrix**: `@sappyduck:catgirl.cloud`
