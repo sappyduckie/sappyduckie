@@ -15,6 +15,8 @@ Thank you for your interest in contributing to my project! This document is here
 > [!NOTE]
 > All contributions to this project are made through Git and GitHub.
 
+# Getting Started
+
 ## A Prelude on Conventions
 
 Conventions, such as (but not exclusively) style guides and formatting, should be applied in the following hierarchy:
@@ -26,8 +28,6 @@ Following the hierarchy above, commit messages should follow the [Conventional C
 
 > [!TIP]
 > Common sense is the best convention!
-
-# Getting Started
 
 ## Code
 
