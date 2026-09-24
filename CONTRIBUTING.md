@@ -1,8 +1,8 @@
 # Contributing
 
-Thank you for your interest in contributing to my project! This document is here to help you help.
+Thank you for your interest in contributing to my project! This document was made to help you help out.
 
-*(Psst- Not a human? This document doesn't apply to you. See [AI_USAGE.md](AI_USAGE.md) to learn how you can contribute.)*
+*(Psst- Not a human? This document doesn't apply to you. See [AGENTS.md](AGENTS.md) to learn how you can contribute. AI-assisted humans can find additionally applicable guidelines under [AI_USAGE.md](AI_USAGE.md).)*
 
 ## Types of Contributions
 
@@ -31,19 +31,22 @@ Following the hierarchy above, commit messages should follow the [Conventional C
 
 ## Code
 
-My projects are primarily written in Rust. If you are new to Rust, it is recommended to [start here](https://doc.rust-lang.org/book). Contributions from rustlings are always welcome!
+All submitted Code must check the following boxes before it can be accepted:
 
-If you are also new to Git, it is recommended to [start here](https://git-scm.com/learn) before making any contributions.
+- [ ] Passes all automated tests and compiles cleanly
+- [ ] Correctly addresses the problem it intends to, that there is not a better method to do so available
+- [ ] Respects conventions as outlined [earlier](#A-Prelude-on-Conventions)
+- [ ] It is, at the minimum, sufficiently documented internally and includes a commit message, and that this Documentation adheres to its [respective rules](#Documentation)
+- [ ] If the contribution had any portion generated with AI tools, its use is noted in the extended commit description with a newline complying with the following format, `Assistant: <name-and-version-of-model-or-tool-used>, Used for: <code>OR<assets>`
 
-Naturally, languages other than Rust will be used per the needs of the project. Common ones include:
+> [!IMPORTANT]
+> The `Used for:` field only accepts `code` OR `assets` as a value. These are the only two acceptable uses for AI in this project. If you are contributing both, please separate them across different commits.
 
-- **TOML**, for configuration files
-- **RON**, for serialization
-- **HTML & CSS**, for interfaces
-- **Python**, for easy scripting
-- And **more**, per necessity
+Miscellaneous notes:
 
-It is expected that contributors are familiar with the tools and languages used in the project that they are contributing to.
+- While this is not always the case, my projects are primarily written in Rust. If you are new to Rust, it is recommended to [start here](https://doc.rust-lang.org/book). Contributions from rustlings are always welcome!
+- If you are also new to Git, it is recommended to [start here](https://git-scm.com/learn) before making any contributions.
+- It is expected that contributors are familiar with the tools and languages used in the project that they are contributing to.
 
 ## Documentation
 
@@ -89,7 +92,7 @@ Finally, by submitting a contribution, you:
 ***
 
 > [!NOTE]
-> If you are unsure whether your contribution follows the guidelines outlined in this document, see [SUPPORT.md](SUPPORT.md).
+> If you are unsure whether your contribution follows the guidelines outlined in this document or others, see [SUPPORT.md](SUPPORT.md).
 
 > [!WARNING]
 > Failure to comply with the rules outlined in this document may result in your contribution's arbitrary rejection.

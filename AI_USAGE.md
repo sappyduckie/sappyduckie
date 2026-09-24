@@ -22,7 +22,7 @@ Wherein throughout this document the following terms are used, they are to be un
 
 ### Code
 
-All submitted Code needs to check the following boxes before it can be accepted:
+All submitted Code must check the following boxes before it can be accepted:
 
 - [ ] Passes all automated tests and compiles cleanly
 - [ ] Correctly addresses the problem it intends to, that there is not a better method to do so available
@@ -50,7 +50,7 @@ Creative Assets must not be generated with AI. Tooling with AI functionality is 
 ***
 
 > [!NOTE]
-> If you are unsure whether your contribution uses AI within the acceptable scope outlined in this document, see [SUPPORT.md](SUPPORT.md).
+> If you are unsure whether your contribution uses AI within the acceptable scope outlined in this document or others, see [SUPPORT.md](SUPPORT.md).
 
 > [!WARNING]
 > Failure to comply with the rules outlined in this document may result in your contribution's arbitrary rejection.
