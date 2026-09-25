@@ -27,3 +27,4 @@ target
 
 # Added by Sappy
 Cargo.lock
+/.*
