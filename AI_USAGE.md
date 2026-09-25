@@ -18,7 +18,7 @@ Wherein throughout this document the following terms are used, they are to be un
 ## Contributions
 
 > [!IMPORTANT]
-> Contributions, human-made or otherwise, are all held to the same standards of quality. Some content in a contribution can only be made by a human, and an Agent may never submit a contribution. For more rules regarding contributions, see [CONTRIBUTING.md](CONTRIBUTING.md). This document supplements, but does not replace, the rules outlined there.
+> Contributions, human-made or otherwise, are all held to the same standards of quality. Some content in a contribution can only be made by a human, and an agent may never submit a contribution. For more rules regarding contributions, see [CONTRIBUTING.md](CONTRIBUTING.md). This document supplements, but does not replace, the rules outlined there.
 
 If the contribution had any portion generated or assisted with AI, its use must be noted at the foot of the extended commit description and must comply with the following format:
 
@@ -42,7 +42,7 @@ Documentation is to be exclusively written by humans. This rule serves two purpo
 
 ### Creative Assets
 
-Creative Assets cannot be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted Creative Assets, and must be properly disclosed.
+Creative assets cannot be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted creative assets, and must be properly disclosed.
 
 ***
 

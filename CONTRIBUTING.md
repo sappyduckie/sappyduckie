@@ -31,10 +31,10 @@ Following the hierarchy above, commit messages must follow the [Conventional Com
 
 Before a contribution is accepted, all submitted code must:
 
-- [ ] Pass all automated tests and compiles cleanly
-- [ ] Correctly address the problem it intends to, and there is not a better way to address it known
+- [ ] Pass all automated tests and compile cleanly
+- [ ] Correctly address the problem it intends to, with no better known approach
 - [ ] Respect conventions as outlined [earlier](#a-prelude-on-conventions)
-- [ ] Be, at the minimum, sufficiently documented internally and include a commit message, and that this documentation adheres to its [respective rules](#documentation)
+- [ ] Be, at the minimum, sufficiently documented internally and include a commit message, with all documentation adhering to its [respective rules](#documentation)
 
 Miscellaneous notes:
 
@@ -44,10 +44,10 @@ Miscellaneous notes:
 
 ## Documentation
 
-This section extends to commit messages, inline code comments, external documentation, and anything else that is intended to be read by humans. Since contributions are to be read by humans, they must exclusively be written by them.
+This section extends to anything that is intended to be read by humans. Since documentation is to be read by humans, it must exclusively be written by them.
 
 There are plenty of things to document, such as, but not limited to:
-- Code, with inline comments describing the code's behaviour
+- Code, documented with inline comments and commit messages to describe the code's behaviour
 - User guides, manuals, version changelogs, and other external documentation
 - Issues raised in the issue tracker
 
