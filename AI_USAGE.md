@@ -3,7 +3,7 @@
 > [!CAUTION]
 > ### *"...people will come to love their oppression, to adore the technologies that undo their capacities to think."*
 >
-> <sup>Neil Postman, 1985. *Amusing ourselves to death.*</sup>
+> <sup>Neil Postman, 1985. *Amusing Ourselves to Death.*</sup>
 
 ## Definitions
 
@@ -13,44 +13,38 @@ Wherein throughout this document the following terms are used, they are to be un
 - **Agent**: Autonomous systems that have the capacity to perform actions based on internal reasoning with a limited degree of human intervention.
 - **Code**: Computer instructions written in a programming language.
 - **Documentation**: Written communication relating to this project that is intended to be read by humans.
-- **Creative Assets**: Non-Code, non-Documentation materials submitted to this project.
+- **Creative Assets**: Non-code, non-documentation materials submitted to this project.
 
 ## Contributions
 
-> [!TIP]
-> Contributions, human-made or otherwise, are all held to the same standards of quality. Some content in a contribution can only be made by a human, and an Agent may never submit a contribution. For more rules regarding contributions, see [CONTRIBUTING.md](CONTRIBUTING.md).
+> [!IMPORTANT]
+> Contributions, human-made or otherwise, are all held to the same standards of quality. Some content in a contribution can only be made by a human, and an Agent may never submit a contribution. For more rules regarding contributions, see [CONTRIBUTING.md](CONTRIBUTING.md). This document supplements, but does not replace, the rules outlined there.
+
+If the contribution had any portion generated or assisted with AI, its use must be noted at the foot of the extended commit description and must comply with the following format:
+
+```
+Assisted-by: <name and version of model or tool used>
+AI-used-for: code | assets
+```
+
+The `AI-used-for:` field only accepts `code` XOR `assets` as a value. If you are contributing both, please separate them across different commits. If you think your contribution falls outside of this scope, [ask](SUPPORT.md)!
 
 ### Code
 
-All submitted Code must check the following boxes before it can be accepted:
-
-- [ ] Passes all automated tests and compiles cleanly
-- [ ] Correctly addresses the problem it intends to, that there is not a better method to do so available
-- [ ] Respects conventions in the following hierarchy:
-  1. Official sources
-  2. Popular consensus
-  3. Personal preference
-- [ ] It is, at the minimum, sufficiently documented internally and includes a commit message, and that this Documentation adheres to its [respective rules](#Documentation)
-- [ ] If the contribution had any portion generated with AI tools, its use is noted in the extended commit description with a newline complying with the following format, `Assistant: <name-and-version-of-model-or-tool-used>, Used for: <code>OR<assets>`
-
-> [!IMPORTANT]
-> The `Used for:` field only accepts `code` OR `assets` as a value. These are the only two acceptable uses for AI in this project. If you are contributing both, please separate them across different commits.
+Code may be entirely generated with AI. Any code is expected to be reviewed and understood by the person submitting it.
 
 ### Documentation
 
-Documentation is to be exclusively written by humans. This rule bluntly serves two purposes:
+Documentation is to be exclusively written by humans. This rule serves two purposes, bluntly:
 
 1. A contributor who cannot document their contribution has not displayed sufficient understanding to have reviewed it, and therefore not to have submitted it.
 2. Documentation facilitates communication between humans on this project. There is a preeminent cost to replacing human connection, and while we will all pay that price, this project will not expedite it.
 
 ### Creative Assets
 
-Creative Assets must not be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted Creative Assets.
+Creative Assets cannot be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted Creative Assets, and must be properly disclosed.
 
 ***
-
-> [!NOTE]
-> If you are unsure whether your contribution uses AI within the acceptable scope outlined in this document or others, see [SUPPORT.md](SUPPORT.md).
 
 > [!WARNING]
 > Failure to comply with the rules outlined in this document may result in your contribution's arbitrary rejection.

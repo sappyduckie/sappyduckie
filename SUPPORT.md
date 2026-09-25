@@ -1,19 +1,16 @@
 # Support & Contact
 
-If you have a **bug to report** or a **feature to request** regarding one of my projects, please open an issue in the respective channel. Make sure to read [the rules](CONTRIBUTING.md)!
-
-> [!TIP]
-> Are the any of the contribution guidelines confusing? Unsure if your contribution is acceptable? Not sure where it goes? Try submitting your contribution anyway, and we can sort it out together.
+If you have a **bug to report** or a **feature to request** regarding one of my projects, please open an issue in the issue tracker. **Security vulnerabilities** must be reported in accordance with the [SECURITY.md](SECURITY.md) guidelines.
 
 ***
 
-Alternatively, you can contact me privately through the following channels:
+If the guidelines or anything else confuses you, you can contact me privately through the following channels:
 
 - **Email**: `sappyduck@proton.me`
 - **Matrix**: `@sappyduck:catgirl.cloud`
 
 > [!NOTE]
-> A rotating public GPG key can be used to encrypt messages sent to me through unencrypted channels, and can be found updated [here](https://github.com/sappyduckie/sappyduckie/blob/main/pubkey.asc).
+> A rotating public GPG key can be used to encrypt messages sent to me through unencrypted channels, and can be found updated [here](https://raw.githubusercontent.com/sappyduckie/sappyduckie/refs/heads/main/pubkey.asc).
 
 ***
 
